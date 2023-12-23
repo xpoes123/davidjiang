@@ -1,1 +1,1 @@
-mosfet.science
+My personal website (design by Max Vogel)
