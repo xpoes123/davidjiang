@@ -29,6 +29,8 @@ body {
 }
 
 h1, h2, h3, h4 {
+    color:#d6d4d4;
+    padding-top:20px;
     font-size: 36px;
     font-weight: 700;
     font-family: montserrat, sans-serif
@@ -1317,3 +1319,23 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
+
+div.transbox {
+    /* padding-top:.001cm; */
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 25px;
+}
+  
+div.transbox p {
+    /* margin: 5%; */
+    font-weight: bold;
+    /* color: #ffffff; */
+    color:#d6d4d4;
+}
+
+div.transbox h1 {
+    /* margin: 5%; */
+    font-weight: bold;
+    /* color: #ffffff; */
+}
